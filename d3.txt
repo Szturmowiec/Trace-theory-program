@@ -1,0 +1,3 @@
+A={a,b,c,d,e}
+I={(a,c),(a,d),(b,d),(b,e),(c,a),(d,a),(d,b),(e,b)}
+w=acebdac
